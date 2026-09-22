@@ -2,6 +2,9 @@ public class Main {
 
    public static void main(String []args) {
       System.out.println("Hello World");
+
+
+      System.out.println("Hellow world");
    }
 }
 
@@ -12,4 +15,30 @@ public class Main {
 /*
 Java is class based oop language, has a compiler
 Javascript is simpaler, used for web dev
+*/
+
+//---
+
+/*
+object orienetd peograming fucuses around classes
+
+class = the blueprint of the object
+object = implimentation
+
+classes dont use memory, objects do
+
+---
+
+method = resuable chunk of code that acomplishes an action
+
+main method = start point of code
+
+---
+
+Syntax:
+/* = bulk comment
+// = single line comment
+all lines end with semicolons ;;;;;;;;;;;
+
+
 */
