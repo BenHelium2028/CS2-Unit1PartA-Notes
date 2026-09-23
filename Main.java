@@ -39,6 +39,20 @@ Syntax:
 /* = bulk comment
 // = single line comment
 all lines end with semicolons ;;;;;;;;;;;
+*/
 
+//Variables
 
+/*
+Primitives = simple info
+Examples
+   int = hole numbers
+   doubles = numbers with decimals
+   char = single charicter
+   string = workds
+
+Process
+   declare -> int x;
+   assign -> x = 5;
+   initilize -> int x = 5;
 */
